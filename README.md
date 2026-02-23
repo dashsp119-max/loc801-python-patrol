@@ -75,7 +75,7 @@ If no Spanish equivalent exists for a given link, keep the English link but note
 
 ### Step 3: Handle the JavaScript String
 
-Open `js/PythonPatrol-base.js`. Near the top you will find a `STRINGS` object with an `en-US` key and an `es-MX` key. The `es-MX` value is currently a placeholder — the same English text as the source.
+Open `js/PythonPatrol-base.js`. Near the top you will find a `STRINGS` object with an `en-US` key and an `es-US` key. The `es-US` value is currently a placeholder — the same English text as the source.
 
 **Your task:** Replace that placeholder with your Spanish translation.
 
@@ -98,7 +98,7 @@ This string does not appear in `index.html`, so your CAT tool will not pick it u
 ## Deliverables
 
 - `inicio.html` committed to the repo root
-- The `es-MX` string in `js/PythonPatrol-base.js` translated
+- The `es-US` string in `js/PythonPatrol-base.js` translated
 - External links updated where Spanish equivalents were found
 - A short reflection (see the [assignment page](https://loc801.locessentials.com/t-7/python-patrol-project.html) for the full prompts)
 - Your GitHub Pages URL shared with your instructor
