@@ -100,5 +100,5 @@ This string does not appear in `index.html`, so your CAT tool will not pick it u
 - `inicio.html` committed to the repo root
 - The `es-MX` string in `js/PythonPatrol-base.js` translated
 - External links updated where Spanish equivalents were found
-- A short reflection (see the assignment page for the full prompts)
+- A short reflection (see the [assignment page](https://loc801.locessentials.com/t-7/python-patrol-project.html) for the full prompts)
 - Your GitHub Pages URL shared with your instructor
