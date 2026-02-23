@@ -7,7 +7,7 @@ const STRINGS = {
     'en-US': {
         newsletterSignup: 'Thank you for signing up! You would receive a confirmation email in a real implementation.'
     },
-    'es-MX': {
+    'es-US': {
         newsletterSignup: 'Thank you for signing up! You would receive a confirmation email in a real implementation.'
         // TODO (students): replace the English above with your Spanish translation.
     }
@@ -45,4 +45,5 @@ backToTopButton.addEventListener('click', function() {
         top: 0,
         behavior: 'smooth'
     });
+
 });
