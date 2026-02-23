@@ -102,3 +102,9 @@ This string does not appear in `index.html`, so your CAT tool will not pick it u
 - External links updated where Spanish equivalents were found
 - A short reflection (see the [assignment page](https://loc801.locessentials.com/t-7/python-patrol-project.html) for the full prompts)
 - Your GitHub Pages URL shared with your instructor
+
+---
+
+## Acknowledgements
+
+The webpage for localization here is inspired by this Nature Conservancy article: [https://www.nature.org/en-us/about-us/where-we-work/united-states/florida/stories-in-florida/stopping-a-burmese-python-invasion/](https://www.nature.org/en-us/about-us/where-we-work/united-states/florida/stories-in-florida/stopping-a-burmese-python-invasion/)
